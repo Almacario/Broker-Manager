@@ -9,23 +9,37 @@ Alberto Macario: alberto.macario@hotmail.it or https://www.linkedin.com/in/alber
 
 <br /><br />
 ## Pictures
+
 Login page
+
 ![Screenshot](login.PNG)
 
+
 Costumers page:
+
 ![Screenshot](anagrafiche.PNG)
 
+
 Add a costumer:
+
 ![Screenshot](aggiungicliente.PNG)
 
+
 Costumer's wallet:
+
 ![Screenshot](portafogli.PNG)
 
+
 Insurance policy:
+
 ![Screenshot](infopolizza.PNG)
 
+
 Payment deadline:
+
 ![Screenshot](quietanziamenti.PNG)
 
+
 Accounting:
+
 ![Screenshot](contabilita.PNG)
