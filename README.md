@@ -27,7 +27,7 @@ Add a costumer:
 
 Costumer's wallet:
 
-![Screenshot](portafogli.PNG)
+![Screenshot](portafogli.png)
 
 
 Insurance policy:
