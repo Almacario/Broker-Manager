@@ -42,4 +42,4 @@ Payment deadline:
 
 Accounting:
 
-![Screenshot](contabilita.PNG)
+![Screenshot](contabilità.PNG)
